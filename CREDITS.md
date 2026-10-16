@@ -1,12 +1,9 @@
-# Credits and provenance
+# Credits
 
-Original starter; no external product inspiration has been declared. Add prominent credit here when adapting an existing project.
+Tokyo Night palette and shell defaults derive from omacom/omarchy at 51bfd1dbaa1b5f790e19623faf2745945d40c796. Upstream licence: OMARCHY-LICENSE.txt. Tokyo Night colour scheme: https://github.com/enkia/tokyo-night-vscode-theme.
 
-Template authorship: Tom Ballard, 2026, MIT. Preserve this attribution when adapting the starter.
-Project author: Tom Ballard.
+Wallpaper: user-supplied Roadster wall-ride photograph, contextually enhanced, then recoloured with image generation into the approved Tokyo Night variant. Original photographer, source URL and media redistribution licence have not been established. No code licence is asserted over the photograph.
 
-- theme conventions: [build-omarchy-themes](https://github.com/tcballard/build-omarchy-themes).
-- Community badge artwork: [omarchy-badges](https://github.com/tcballard/omarchy-badges), pinned to 75975e5b5bf75e7ede3764bcd2950046f7abfe2c. No badge artwork is bundled.
-- Palette: original Moss starter from Build Omarchy Themes (MIT).
+No live desktop screenshot or marketplace listing is claimed.
 
-No third-party wallpapers, screenshots or product logos are bundled. Record source URLs, creator, licence and redistribution permission for any added assets. Crediting an inspiration does not grant permission to copy its code or artwork.
+Theme author and original starter: Tom Ballard, 2026, MIT. Built with Build Omarchy Themes guidance. Community badge: tcballard/omarchy-badges, pinned to 75975e5b5bf75e7ede3764bcd2950046f7abfe2c. No badge artwork is bundled.
