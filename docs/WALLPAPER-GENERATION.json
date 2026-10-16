@@ -130,15 +130,16 @@
     {
       "file": "backgrounds/10-tokyo-starlight-8k.png",
       "native": [
-        1254,
-        1254
+        1672,
+        941
       ],
       "export": [
         8192,
-        8192
+        4608
       ],
-      "method": "Built-in image generation colour/lighting edit of the two-pass enhanced original, then Lanczos3 enlargement. No contextual enhancement passes on this variant.",
-      "sha256": "557603192007a36add57a53a38ffea9511b7e996fad13e903c988ec2334bd39e"
+      "method": "AI 16:9 scene extension of the Tokyo Night Starlight artwork, then Lanczos3 export; no new contextual enhancement passes.",
+      "sha256": "5efd59fecdf885ce5de01724768f2fe9bd67501d9694bd0723e9b650f5ad24bd",
+      "bytes": 24127585
     }
   ]
 }
