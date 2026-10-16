@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/tcballard/omarchy-badges"><img alt="Built for Omarchy: Theme" height="20" src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg"></a></p>
 
-A separate Omarchy Quattro theme combining Tokyo Night's indigo surfaces, periwinkle blue shell accents and violet highlights with all nine Roadster images in the punchier blue-violet styling. The original red Roadster theme is a separate installation.
+A separate Omarchy Quattro theme combining Tokyo Night's indigo surfaces, periwinkle blue shell accents and violet highlights with all ten Roadster images in the punchier blue-violet styling. The original red Roadster theme is a separate installation.
 
 ## Install
 
@@ -29,9 +29,11 @@ Uses Omarchy's built-in Tokyo Night semantic palette. Red remains an error colou
 
 ## Wallpaper
 
-Includes all nine Tokyo Roadster colourways: wall-ride, lineup, hover, ramp, inverted, rear, diffuser, studio and the ROADSTER event poster. The approved wall-ride remains the default, unchanged. Omarchy cycles through the complete set.
+Includes all ten Tokyo Roadster colourways: wall-ride, lineup, hover, ramp, inverted, rear, diffuser, studio, the ROADSTER event poster and Starlight. The approved wall-ride remains the default, unchanged. Omarchy cycles through the complete set.
 
 Each image is exported as a lossless PNG with an 8192-pixel longest edge, proportionally enlarged from its generated artwork. These are AI style edits followed by Lanczos enlargement, not native 8K generations or a new two-pass contextual enhancement. See [generation details](docs/WALLPAPER-GENERATION.json).
+
+Starlight is a square 8192 × 8192 scene with raised doors and a blue-violet starry sky. [Processing details](docs/STARLIGHT-PROCESSING.json).
 
 ## Compatibility
 
