@@ -126,6 +126,19 @@
       "method": "Built-in image generation Tokyo Night colour/lighting style edit, then Lanczos3 export to source 16:9; no contextual enhancement passes on this variant.",
       "source_sha256": "3e44a2a2c8a5ac6631708d46c60e9982960fdd818e5601767e92deedcb1d2ba4",
       "sha256": "4bbad90a92e4cd24fb7e65e92e623c20b609713bbdb588cb3d4fa8da05c50761"
+    },
+    {
+      "file": "backgrounds/10-tokyo-starlight-8k.png",
+      "native": [
+        1254,
+        1254
+      ],
+      "export": [
+        8192,
+        8192
+      ],
+      "method": "Built-in image generation colour/lighting edit of the two-pass enhanced original, then Lanczos3 enlargement. No contextual enhancement passes on this variant.",
+      "sha256": "557603192007a36add57a53a38ffea9511b7e996fad13e903c988ec2334bd39e"
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "asset": "backgrounds/10-tokyo-starlight-8k.png",
+  "source": {
+    "filename": "5B8D532D-8128-45E8-9B06-8A7D750CD68D.jpeg",
+    "sha256": "f51f6ef5e5319698469a3feabb6213be46f9b292614b9a1afaca4cce296347a7",
+    "dimensions": [
+      900,
+      900
+    ],
+    "provenance": "User-supplied cinematic automotive artwork; media rights separate from code licence."
+  },
+  "export": {
+    "file": "tokyo-roadster-starlight-8k.png",
+    "dimensions": [
+      8192,
+      8192
+    ],
+    "space": "srgb",
+    "depth": "uchar",
+    "bytes": 28240625,
+    "sha256": "557603192007a36add57a53a38ffea9511b7e996fad13e903c988ec2334bd39e",
+    "decoded": true
+  },
+  "method": {
+    "tool": "built-in image_gen",
+    "input_master_sha256": "b2b8185c2e8f8aced6baeb4d085636955b0ccac5855704e241b7e934343e1cb7",
+    "native": [
+      1254,
+      1254
+    ],
+    "contextual_passes": 0,
+    "export_method": "Lanczos3 enlargement of generated colour/lighting edit",
+    "qa": "Full-frame and 512px actual-export rear wheel/body crop reviewed: no visible scaling seams, coherent wheel and door silhouettes, controlled blue-violet lighting. Style edit reinterprets fine star/ground detail; not exact pixel preservation.",
+    "prompt": "Use case: lighting-weather / style-transfer. Edit this exact completed Roadster artwork into our punchy Tokyo Night colorway. Preserve the square composition and all existing geometry: silver car facing left, both scissor doors raised at exact angles, five-spoke wheels, wing, diffuser, four circular rear nozzles, cabin figure/hand shape, mountains and existing star field/Milky Way placement. Change COLOR AND LIGHTING ONLY. Nearly-black indigo sky #10111b, electric periwinkle blue #7aa2f7 and icy cyan #7dcfff highlights, saturated violet #bb9af7 and controlled pink-violet #f7768e reflections. Existing red taillight and warm cabin light become vivid blue-violet with pale luminous cores and tight bloom. Bright clean silver panels with blue and violet reflected edges; black glass stays dark. Cool violet-blue horizon glow; retain stars without adding constellations or excessive nebula effects. Rich cinematic contrast, premium automotive render finish; avoid noise, coarse metallic texture, halos, extra light strips, new objects, altered proportions, invented text or changed pose. Return the full original square framing at maximum practical native resolution.\n"
+  },
+  "detail": "AI reconstructed; 8K describes export dimensions, not native generation."
+}
