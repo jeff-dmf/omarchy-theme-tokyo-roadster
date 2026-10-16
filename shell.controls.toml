@@ -1,0 +1,24 @@
+# Complete controls section; upstream 51bfd1dbaa1b5f790e19623faf2745945d40c796.
+[controls]
+normal-color        = "#a9b1d6"
+normal-fill-alpha   = 0.04
+normal-border       = "#a9b1d6"
+normal-border-width = 1
+normal-border-alpha = 0.4
+hover-cursor-color        = "#a9b1d6"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border = "#7aa2f7"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.65
+focus-color        = "#a9b1d6"
+focus-fill-alpha   = 0.08
+focus-border = "#7aa2f7"
+focus-border-width = 2
+focus-border-alpha = 1
+selected-color = "#7aa2f7"
+selected-fill-alpha = 0.14
+selected-border = "#7aa2f7"
+selected-border-width = 1
+selected-border-alpha = 1.0
+pressed-fill-alpha   = 0.22
+selection-fill-alpha = 0.35

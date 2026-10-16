@@ -1,0 +1,9 @@
+# Complete bar section; upstream 51bfd1dbaa1b5f790e19623faf2745945d40c796.
+[bar]
+background       = "#1a1b26"
+background-alpha = 1.0
+text             = "#a9b1d6"
+active = "#7aa2f7"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28

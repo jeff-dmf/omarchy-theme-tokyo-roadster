@@ -1,7 +1,7 @@
 # Architecture
 
-`colors.toml` is the source semantic palette. Omarchy derives supported application configuration from it; do not edit generated current-theme output.
+colors.toml uses Omarchy’s Tokyo Night semantic palette. Four complete shell overrides style bar, controls, menu and launcher with blue accents; other shell and application configurations are generated upstream. Section defaults target Quattro 51bfd1dbaa1b5f790e19623faf2745945d40c796 and must be compared when upgrading. No full shell.toml override, install hook or Lua payload is supplied.
 
-The starter includes no shell overrides, install hooks, Lua, wallpapers or preview. Add licensed media under backgrounds and record its provenance in CREDITS.md. Add section-specific shell overrides only after verifying the target Omarchy contract.
+The sole wallpaper is backgrounds/01-tokyo-wall-ride-8k.png. It is a proportional 8192 × 5461 export of the approved generated preview, without a further contextual enhancement pass. SHA256SUMS verifies its bytes.
 
-The portable validator accepts flat quoted hex colours and checks text contrast. It is not a complete TOML parser or registry validator.
+Offline validation and live-testing limits are recorded in docs/VALIDATION.md.

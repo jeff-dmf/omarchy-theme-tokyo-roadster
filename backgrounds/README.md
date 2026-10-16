@@ -1,3 +1,3 @@
-# Wallpapers
+# Wallpaper
 
-Place licensed wallpaper files directly in this directory and record source, creator, licence and redistribution permission in CREDITS.md. This starter intentionally bundles no wallpaper and makes no media-rights claim.
+The approved punchier Tokyo Night wall-ride variant, exported to 8192 × 5461 with Lanczos interpolation. No additional two-pass contextual enhancement is claimed. See ../CREDITS.md and ../SHA256SUMS.

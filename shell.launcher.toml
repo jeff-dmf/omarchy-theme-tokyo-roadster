@@ -1,0 +1,14 @@
+# Complete launcher section; upstream 51bfd1dbaa1b5f790e19623faf2745945d40c796.
+[launcher]
+background                = "#1a1b26"
+background-alpha          = 0.95
+text                      = "#a9b1d6"
+border = "#7aa2f7"
+border-alpha              = 1.0
+scrim                     = "#1a1b26"
+scrim-alpha               = 0.5
+selected-background = "#7aa2f7"
+selected-background-alpha = 0.12
+selected-text = "#a9b1d6"
+selected-border = "#7aa2f7"
+selected-border-alpha = 1
