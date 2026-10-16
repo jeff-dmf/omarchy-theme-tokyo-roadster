@@ -1,0 +1,117 @@
+{
+  "method": "Built-in image generation style transfer, followed by proportional Lanczos3 enlargement; no new contextual enhancement passes.",
+  "prompt": "Use case: style-transfer. Edit IMAGE 1 only; IMAGE 2 is the approved Tokyo Roadster color/lighting reference, not a composition to copy. Preserve image 1's entire composition, camera, vehicles, exact silhouettes, scale, positions and negative space. Apply the same punchy cinematic Tokyo Night styling: nearly-black indigo shadows, vivid electric periwinkle-blue existing light strips with tight bloom and pale cores, violet and subtle pink-violet secondary reflections, icy cyan highlights and smoke, luminous silver metal with black glass. Replace red illumination with blue/violet. Rich contrast without crushing vehicle details, photoreal materials. No extra objects, city, lettering, or fixtures. Keep original aspect ratio and framing. Output a single finished wallpaper, not a collage.",
+  "images": [
+    {
+      "file": "backgrounds/01-tokyo-wall-ride-8k.png",
+      "native": [
+        1536,
+        1024
+      ],
+      "export": [
+        8192,
+        5461
+      ],
+      "unchanged_approved_default": true,
+      "sha256": "f9c2b4c8728d761c805f0e6d796f1f7554db5a3266552fd8b613222d6d113413"
+    },
+    {
+      "file": "backgrounds/02-tokyo-lineup-8k.png",
+      "native": [
+        1536,
+        1024
+      ],
+      "export": [
+        8192,
+        5461
+      ],
+      "source_sha256": "ec0dfa25351cbc83384ad12b07343103242f7405655705e2b46955ee33063799",
+      "sha256": "69b025f54ac72887a1bd2ccf67bc89c8cbed0ea723adf2131791472cfd73f9cf",
+      "bytes": 10153539
+    },
+    {
+      "file": "backgrounds/03-tokyo-hover-8k.png",
+      "native": [
+        1331,
+        1181
+      ],
+      "export": [
+        8192,
+        7269
+      ],
+      "source_sha256": "07a32ba45cf0dfefd754b8125948066ee88cca0239d1f433654ac57ad7c7ab04",
+      "sha256": "58723330158770a7b9ab5f2d1664da1c17ce01d225292c987b3b38bf91c675c4",
+      "bytes": 20113672
+    },
+    {
+      "file": "backgrounds/04-tokyo-ramp-8k.png",
+      "native": [
+        1536,
+        1024
+      ],
+      "export": [
+        8192,
+        5461
+      ],
+      "source_sha256": "add13d90fe1af82d08f071b04e0b1cca0003e9fc536ea68f48bbb82ddb537246",
+      "sha256": "a653b820d80f539065d19d82c7db1196b2f79da329aa40a0a370d53b8023f7e3",
+      "bytes": 12050442
+    },
+    {
+      "file": "backgrounds/05-tokyo-inverted-8k.png",
+      "native": [
+        1536,
+        1024
+      ],
+      "export": [
+        8192,
+        5461
+      ],
+      "source_sha256": "d1b5311afced5bff619f9dfb39e84fa52c464ec38da6c80215f98de6c120d7b0",
+      "sha256": "bbc3a3696253cdc4ccb2e0114aa614b1c82fcda5abb09ef291a792f70a045ed0",
+      "bytes": 11134092
+    },
+    {
+      "file": "backgrounds/06-tokyo-rear-8k.png",
+      "native": [
+        1536,
+        1024
+      ],
+      "export": [
+        8192,
+        5461
+      ],
+      "source_sha256": "cc6b57de9c52f46f90f4844ba372c2eb1b7fdda600822d6507f8713855f1259f",
+      "sha256": "e4158a1d7da90e3a98de1135da5612e5bcc50f756389ae25f64a3aca293e1f50",
+      "bytes": 19023960
+    },
+    {
+      "file": "backgrounds/07-tokyo-diffuser-8k.png",
+      "native": [
+        1448,
+        1086
+      ],
+      "export": [
+        8192,
+        6144
+      ],
+      "source_sha256": "633cd71f65ca876ac4212b290c0a6f030afc6f8420b496a6bd698c7371d33ffe",
+      "sha256": "dc65d83ca4ff2757f31203e1c136505b07183a3d400c2268ac6758b64c174383",
+      "bytes": 17509704
+    },
+    {
+      "file": "backgrounds/08-tokyo-studio-8k.png",
+      "native": [
+        1536,
+        1024
+      ],
+      "export": [
+        8192,
+        5461
+      ],
+      "source_sha256": "3fbf034b0003470d55c844b2a6d8295aec2d960ce641424f53490f1575984d89",
+      "sha256": "ac3c343a630ca3fb8161b97137b62e2279a1f36308dedc9c7842d7f9949c1a6d",
+      "bytes": 13300568
+    }
+  ]
+}
