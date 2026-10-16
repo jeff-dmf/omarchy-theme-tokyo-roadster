@@ -11,3 +11,6 @@ NOT RUN: live XPS display, mixed scale, all shell orientations, keyboard/mouse i
 Wallpaper dimensions are export enlargements of generated artwork; no extra contextual enhancement passes are claimed.
 
 Full-set update: PASS — all eight PNG exports fully decoded; SHA256SUMS passed for every wallpaper; default wall-ride bytes unchanged from the previous commit. Real upstream Git-installed headless staging verified all eight wallpapers in order, wraparound to the default, and retention of the selected wallpaper after switching away and back. Portable repository checks and five Node tests passed. Live desktop checks remain NOT RUN.
+
+Poster addition: ninth wallpaper, lossless sRGB PNG at 8192 × 4608. Fully decoded and visually reviewed at full-frame and 100% detail. Existing eight wallpaper bytes and default selection preserved.
+PASS for the ninth-image update: portable repository checks and five Node tests; all nine image checksums; real upstream headless Git-installed staging, nine-image cycle, default, wraparound and remembered selection. Live desktop interaction is not implied by this check.

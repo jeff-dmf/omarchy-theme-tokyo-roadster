@@ -112,6 +112,20 @@
       "source_sha256": "3fbf034b0003470d55c844b2a6d8295aec2d960ce641424f53490f1575984d89",
       "sha256": "ac3c343a630ca3fb8161b97137b62e2279a1f36308dedc9c7842d7f9949c1a6d",
       "bytes": 13300568
+    },
+    {
+      "file": "backgrounds/09-tokyo-poster-8k.png",
+      "native": [
+        1672,
+        941
+      ],
+      "export": [
+        8192,
+        4608
+      ],
+      "method": "Built-in image generation Tokyo Night colour/lighting style edit, then Lanczos3 export to source 16:9; no contextual enhancement passes on this variant.",
+      "source_sha256": "3e44a2a2c8a5ac6631708d46c60e9982960fdd818e5601767e92deedcb1d2ba4",
+      "sha256": "4bbad90a92e4cd24fb7e65e92e623c20b609713bbdb588cb3d4fa8da05c50761"
     }
   ]
 }
