@@ -7,3 +7,5 @@ Wallpapers: ten user-supplied Roadster photographs and artworks, originally cont
 No live desktop screenshot or marketplace listing is claimed.
 
 Theme author and original starter: Tom Ballard, 2026, MIT. Built with Build Omarchy Themes guidance. Community badge: tcballard/omarchy-badges, pinned to 75975e5b5bf75e7ede3764bcd2950046f7abfe2c. No badge artwork is bundled.
+
+Starlight was subsequently extended sideways with built-in image generation into a 16:9 desktop composition; new environment and fine detail are AI reconstructed.

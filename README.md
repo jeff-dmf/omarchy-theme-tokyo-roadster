@@ -33,7 +33,7 @@ Includes all ten Tokyo Roadster colourways: wall-ride, lineup, hover, ramp, inve
 
 Each image is exported as a lossless PNG with an 8192-pixel longest edge, proportionally enlarged from its generated artwork. These are AI style edits followed by Lanczos enlargement, not native 8K generations or a new two-pass contextual enhancement. See [generation details](docs/WALLPAPER-GENERATION.json).
 
-Starlight is a square 8192 × 8192 scene with raised doors and a blue-violet starry sky. [Processing details](docs/STARLIGHT-PROCESSING.json).
+Starlight is a 16:9 desktop scene at 8192 × 4608, extended sideways to keep the full car, both raised doors and rear wing visible beneath a blue-violet starry sky. [Processing details](docs/STARLIGHT-PROCESSING.json).
 
 ## Compatibility
 
